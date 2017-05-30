@@ -1,0 +1,2 @@
+FORMAT: '''%d/%m/%Y  and Time is %H:%M '''
+FORMATBACKUP: ''' %d/%m/%Y  and Time is %H:%M '''
