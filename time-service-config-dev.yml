@@ -1,2 +1,2 @@
-FORMAT: '''%d/%m/%Y  and Time is %H:%M '''
+FORMAT: '''%d/%m/%Y  and DEV Time is %H:%M '''
 FORMATBACKUP: ''' %d/%m/%Y  and Time is %H:%M '''
